@@ -26,7 +26,7 @@ month=$(date +%m)
 # - Spring -> March     (3)  to May      (5)
 # - Summer -> June      (6)  to August   (8)
 # - Fall   -> September (9)  to November (11)
-# - Winter -> December  (11) to February (2) 
+# - Winter -> December  (12) to February (2) 
 
 # determine current season
 #Spring
