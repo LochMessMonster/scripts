@@ -6,7 +6,6 @@
 # The wallpaper to be selected is stored in $HOME/Pictures/season-wallapper/<season>/
 # 
 
-
 # Set types
 typeset -A season
 typeset -i month
@@ -14,10 +13,10 @@ typeset -i month
 base_path="$(echo $HOME)/Pictures/season-wallpaper"
 
 #path to season directory
-season[spring]="${base_path}/spring/"
+season[spring]="${base_path}/spring/*"
 season[summer]="${base_path}/summer/*"
-season[fall]="${base_path}/fall/"
-season[winter]="${base_path}/winter/"
+season[fall]="${base_path}/fall/*"
+season[winter]="${base_path}/winter/*"
 
 #get month number
 month=$(date +%m)
