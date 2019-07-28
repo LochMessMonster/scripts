@@ -3,7 +3,7 @@
 # season-wallpaper.sh
 # 
 # Chooses a random wallpaper based on the season
-# The wallpaper to be selected is stored in $HOME/Pictures/season-wallapper/<season>/
+# The wallpaper to be selected is stored in $HOME/Pictures/season-wallpaper/<season>/
 # 
 
 # Set types
