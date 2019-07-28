@@ -2,6 +2,6 @@
 
 Collection of scripts that I use.
 
-* season-wallpaper.sh - Change a random wallpaper based on the current (UK) season
+* [https://github.com/LochMessMonster/scripts/blob/master/season-wallpaper.sh](season-wallpaper.sh) - Change a random wallpaper based on the current (UK) season
 
 .
