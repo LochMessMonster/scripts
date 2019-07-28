@@ -37,10 +37,10 @@ elif [[ $month -ge 6 && $month -le 8 ]] ; then
 	current="summer"
 #Fall
 elif [[ $month -ge 9 && $month -le 11 ]] ; then
-	current='fall'
+	current="fall"
 #Winter
 elif [[ $month -eq 12 ]] || [[ $month -ge 1 && $month -le 2 ]] ; then
-	current='winter'
+	current="winter"
 fi
 
 # scale and set a random wallpaper
